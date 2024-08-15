@@ -4,3 +4,6 @@ print("Soma:", a + b)
 print("Subtração:", a - b)
 print("Multiplicação:", a * b)
 print("Divisão:", a / b)
+c = a / b
+print(c)
+print(type(c))
